@@ -1,4 +1,4 @@
-Jogo Detona Ralph
+Jogo Detona Ralph desenvolvido no BootCamp da DIO e Ri Happy
 
 Este projeto é um simples jogo baseado no personagem Detona Ralph. O jogador deve clicar nos quadrados onde o personagem Ralph aparece antes que o tempo acabe. O objetivo é marcar a maior pontuação possível. O jogo usa HTML, CSS e JavaScript para renderizar a interface e a lógica do jogo.
 
